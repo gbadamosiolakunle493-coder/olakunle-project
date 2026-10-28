@@ -1,0 +1,6 @@
+Oct 27 10:01:12 server1 sshd[101]: Failed password for admin from 192.0.2.10
+Oct 27 10:02:15 server1 sshd[102]: Accepted password for rofiat from 192.0.2.20
+Oct 27 10:03:19 server1 sshd[103]: Failed password for root from 192.0.2.10
+Oct 27 10:04:25 server1 sshd[104]: Failed password for admin from 192.0.2.10
+Oct 27 10:05:30 server1 sshd[105]: Failed password for guest from 192.0.2.30
+Oct 27 10:06:40 server1 sshd[106]: Failed password for admin from 192.0.2.30
